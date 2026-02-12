@@ -18,4 +18,4 @@ The question is simple…
 
 **How long can YOU survive?** 🕒🧟‍♂️
 
-Good luck out there… you’re definitely going to need it. 💀🔥
+Good luck out there… you’re definitely going to need it. 💀🔥 
