@@ -1,4 +1,5 @@
 <img width="2549" height="1210" alt="image" src="https://github.com/user-attachments/assets/f13363c6-0def-451c-a143-6720c3ceec03" />
+
 Welcome to **Zombie Shooter** 🧟‍♂️🔥💥
 
 Step into a fast-paced, heart-pounding **3D HTML survival experience** built completely from the ground up by me and my friend 🚀🧠. What started as a small late-night idea quickly evolved into a full-scale fight for survival — and now it’s *your* turn to step into the chaos and test your skills against the apocalypse 🌍⚠️.
@@ -20,3 +21,26 @@ The question is simple…
 **How long can YOU survive?** 🕒🧟‍♂️
 
 Good luck out there… you’re definitely going to need it. 💀🔥 
+
+There are two easy ways to start blasting zombies and testing your survival skills. Choose whichever works best for you 👇
+
+🌐 Method 1 – Play Instantly in Your Browser (Recommended) 🚀
+
+No downloads. No setup. Just click and survive.
+
+👉 Go to this link:
+https://pjtaity.github.io/zombie-shooter/
+
+The game will load directly in your browser, and you can start fighting off waves of the undead immediately 🧟‍♂️🔫💥.
+This is the fastest and easiest way to play!
+
+💾 Method 2 – Download & Play Locally
+
+Want to keep a copy or play offline? No problem.
+
+1️⃣ Go to the Releases section of this repository.
+2️⃣ Download the .html file from the latest version.
+3️⃣ Open the file on your computer.
+4️⃣ Survive the apocalypse. 😈🔥
+
+Simple as that. No installs required — just open and play.
