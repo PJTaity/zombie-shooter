@@ -22,7 +22,7 @@ The question is simple…
 
 Good luck out there… you’re definitely going to need it. 💀🔥 
 
-There are two easy ways to start blasting zombies and testing your survival skills. Choose whichever works best for you 👇
+There are three easy ways to start blasting zombies and testing your survival skills. Choose whichever works best for you 👇
 
 🌐 Method 1 – Play Instantly in Your Browser (Recommended) 🚀
 
@@ -44,3 +44,11 @@ Want to keep a copy or play offline? No problem.
 4️⃣ Survive the apocalypse. 😈🔥
 
 Simple as that. No installs required — just open and play.
+
+💾 Method 3 – Download the App
+
+Want to have it as an actual app? No issue there!
+
+1️⃣ Go to the Releases section of this repository. 2️⃣ Download the .zip file from the latest version. 3️⃣ Extract the file on your computer. (Right click - Extract All) 4️⃣Open the .exe file on your computer. 5️⃣ Have fun! 🧟‍♂️🔥
+
+Free + Safe + Fun. Why not give it a try?
