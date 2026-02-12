@@ -1,3 +1,4 @@
+<img width="2549" height="1210" alt="image" src="https://github.com/user-attachments/assets/f13363c6-0def-451c-a143-6720c3ceec03" />
 Welcome to **Zombie Shooter** 🧟‍♂️🔥💥
 
 Step into a fast-paced, heart-pounding **3D HTML survival experience** built completely from the ground up by me and my friend 🚀🧠. What started as a small late-night idea quickly evolved into a full-scale fight for survival — and now it’s *your* turn to step into the chaos and test your skills against the apocalypse 🌍⚠️.
